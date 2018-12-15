@@ -48,7 +48,7 @@ Discussion
 Verify now!
 
         Week 2: Using JavaScript to Create Dynamic, Data-Driven Web Pages
-    JavaScript Basics
+    21 JavaScript Basics
 Quiz  This content is graded
 Introduction to Week 2
 Introduction to JavaScript - Video 2.1
@@ -62,10 +62,10 @@ JavaScript functions - Video 2.5
 Quiz 2.4
 JavaScript regular expressions - Video 2.6
 Quiz 2.5
-    Homework 2 - JavaScript
+    22 Homework 2 - JavaScript
 Homework  This content is graded
 Homework 2 - JavaScript
-    Using JavaScript in Web Pages
+    23 Using JavaScript in Web Pages
 Quiz  This content is graded
 Introduction to the DOM - Video 2.7
 Quiz 2.6
@@ -77,10 +77,10 @@ jQuery event handling - Video 2.10
 Quiz 2.9
 jQuery event handling - Video 2.11
 Quiz 2.10
-    Homework 3 - jQuery
+    24 Homework 3 - jQuery
 Homework  This content is graded
 Homework 3 - jQuery
-    Discussion
+    25 Discussion
 Discussion
 
         Week 3: Client-Side Frameworks for Developing Modular Web Page Components
