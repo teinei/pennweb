@@ -1,4 +1,4 @@
-        w0 Programming for the Web with JavaScript : Getting Started
+        w0 Programming for the Web with JavaScript  Getting Started
     01 Welcome to Programming for the Web with JavaScript
 Welcome from the SD4x Team
 Welcome Note from Prof. Chris Murphy and Prof. Swapneel Sheth
@@ -13,7 +13,7 @@ Submitting Assignments using Codio
     Pre-Course Survey
 Pre-Course Survey
 
-        w1 Week 1: Web Programming Basics
+        w1 Week 1 Web Programming Basics
     11 Basics of the World Wide Web
 Quiz  This content is graded
 Introduction to Week 1
@@ -47,7 +47,7 @@ Discussion
     Professional Certificate - Verification Reminder
 Verify now!
 
-        Week 2: Using JavaScript to Create Dynamic, Data-Driven Web Pages
+        Week 2 Using JavaScript to Create Dynamic, Data-Driven Web Pages
     21 JavaScript Basics
 Quiz  This content is graded
 Introduction to Week 2
@@ -83,7 +83,7 @@ Homework 3 - jQuery
     25 Discussion
 Discussion
 
-        Week 3: Client-Side Frameworks for Developing Modular Web Page Components
+        Week 3 Client-Side Frameworks for Developing Modular Web Page Components
     Developing Web Applications with React
 Quiz  This content is graded
 Introduction to Week 3
@@ -122,7 +122,7 @@ Quiz 3.11
     Discussion
 Discussion
 
-        Week 4: Building Scalable Web Apps with Server-Side JavaScript
+        Week 4 Building Scalable Web Apps with Server-Side JavaScript
     Developing Web Applications with Node.js
 Quiz  This content is graded
 Introduction to Week 4
@@ -161,7 +161,7 @@ Course Tools
  Updates
  Upgrade to Verified
 Important Course Dates
-Today is Dec 12, 2018 10:37 AWST
+Today is Dec 12, 2018 1037 AWST
 Course End
 in 2 years - Oct 1, 2020
 
